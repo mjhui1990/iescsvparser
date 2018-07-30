@@ -1,0 +1,32 @@
+Main,Cat,Category, Part Number,Barcode Number, Supplier Part Number, Description, Supplier,List ,Available
+Electrical,128,Breaker,BR115,,BR115,15A 1P 120/240v 10kAIC Breaker Eaton/Westinghouse/Challenger/T&B,Eaton Corporation,$4.00 ,34
+     ,     ,,     BR115,     BR115,     ,     ,     Eaton Corporation,     ,     
+     ,     ,,     BR115,     BR115,     ,     ,     H. Schacht Electrical Supply Inc.,     ,     
+Electrical,128,Breaker,BR115AF,,BR115AF,15A 1P 120/240v 10kAIC Fireguard Arc Fault Circuit Interrupter Breaker,Eaton Corporation,$39.00 ,2
+     ,     ,,     BR115AF,     BR115AF,     ,     ,     Eaton Corporation,     ,     
+Electrical,128,Breaker,BR115ST,,BR115ST,15A 1P 120/240v 10kAIC Breaker w/ Shunt Trip Type BR,Eaton Corporation,$56.00 ,0
+     ,     ,,     BR115ST,     BR115ST,     ,     ,     Eaton Corporation,     ,     
+Electrical,128,Breaker,BR120,,BR120,20A 1P 120/240v 10kAIC Breaker Eaton / Westinghouse / Challenger / T&B,Eaton Corporation,$4.00 ,581
+     ,     ,,     BR120,     BR120,     ,     ,     Eaton Corporation,     ,     
+     ,     ,,     BR120,     BR120,     ,     ,     LENDY ELECTRIC SUPPLY,     ,     
+     ,     ,,     BR120,     BR120,     ,     ,     H. Schacht Electrical Supply Inc.,     ,     
+Electrical,128,Breaker,BR120AF,,BR120AF,20A 1P 120/240v 10kAIC Fireguard Arc Fault Circuit Interrupter Breaker,Eaton Corporation,$39.00 ,0
+     ,     ,,     BR120AF,     BR120AF,     ,     ,     Eaton Corporation,     ,     
+Electrical,128,Breaker,BR120ST,,BR120ST,20A 1P 120/240v 10kAIC Breaker w/ Shunt Trip,Eaton Corporation,$56.00 ,0
+     ,     ,,     BR120ST,     BR120ST,     ,     ,     Eaton Corporation,     ,     
+Electrical,128,Breaker,BR125,,BR125,25A 1P 120/240v 10kAIC Breaker Eaton/Westinghouse/Challenger/T&B,Eaton Corporation,$6.75 ,0
+     ,     ,,     BR125,     BR125,     ,     ,     Eaton Corporation,     ,     
+Electrical,128,Breaker,BR130,,BR130,30A 1P 120/240v 10kAIC Breaker Eaton/Westinghouse/Challenger/T&B,Eaton Corporation,$5.00 ,14
+     ,     ,,     BR130,     BR130,     ,     ,     Eaton Corporation,     ,     
+Electrical,128,Breaker,BR130ST,,BR130ST,30A 1P 120/240v 10kAIC Breaker w/ Shunt Trip,Eaton Corporation,$56.00 ,0
+     ,     ,,     BR130ST,     BR130ST,     ,     ,     Eaton Corporation,     ,     
+Electrical,128,Breaker,BR140,,BR140,40A 1P 120/240v 10kAIC Breaker Eaton/Westinghouse/Challenger/T&B,Eaton Corporation,$6.65 ,1
+     ,     ,,     BR140,     BR140,     ,     ,     Eaton Corporation,     ,     
+Electrical,128,Breaker,BR150,,BR150,50A 1P 120/240v 10kAIC Breaker Eaton/Westinghouse/Challenger/T&B,Eaton Corporation,$7.30 ,8
+     ,     ,,     BR150,     BR150,     ,     ,     Eaton Corporation,     ,     
+Electrical,128,Breaker,BR1515,,BR1515,15-15 1P 120/240v 10kAIC Duplex Breaker without Rejection Tab Eaton/Westinghouse/Challenger/T&B,Eaton Corporation,$16.00 ,18
+     ,     ,,     BR1515,     BR1515,     ,     ,     Eaton Corporation,     ,     
+Electrical,128,Breaker,BR160,,BR160,60A 1P 120/240v 10kAIC Breaker Eaton/Westinghouse/Challenger/T&B,Eaton Corporation,$7.60 ,2
+     ,     ,,     BR160,     BR160,     ,     ,     Eaton Corporation,     ,     
+Electrical,128,Breaker,BR170,,BR170,70A 1P 120/240v 10kAIC Breaker Eaton/Westinghouse/Challenger/T&B,Eaton Corporation,$14.80 ,41
+     ,     ,,     BR170,     BR170,     ,     ,     Eaton Corporation,     ,     
